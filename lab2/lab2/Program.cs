@@ -18,6 +18,10 @@ namespace lab2
 
         }
 
+        static void different()
+        {
+
+        }
 
     }
 }
