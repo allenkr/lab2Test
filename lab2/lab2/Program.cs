@@ -12,6 +12,10 @@ namespace lab2
         {
         }
 
+        static void masterAdd()
+        {
+
+        }
 
     }
 }
