@@ -10,12 +10,6 @@ namespace lab2
     {
         static void Main(string[] args)
         {
-            Console.Write("hi");
-        }
-
-        static void f()
-        {
-
         }
 
 
